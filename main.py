@@ -17,7 +17,6 @@
 
 
 n1 = 6
-
 n2 = 3
 
 print('A som entre o n1 e n2 é = ', n1 + n2)
