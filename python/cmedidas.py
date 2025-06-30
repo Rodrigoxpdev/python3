@@ -1,5 +1,6 @@
 medida = float(input('uma medida em metros '))
 
+# PARA NUMEROS FRACIONADOS NAO UTILIZA-SE O * 
 m = medida * 100 # METROS
 cm = medida * 100 #CENTIMETROS
 mm = medida * 1000#MILIMETROS
@@ -16,50 +17,6 @@ print(
 '\nA medida de {:.0f}hm corresponde a {:.0f}m HEQUITOMETROS' 
 '\nA medida de {:.0f}dam corresponde a {:.0f}m DECAMETROS' 
 '\nA medida de {:.0f}m corresponde a {:.0f}dm DECIMETROS'.format(medida, cm, medida, mm, medida,km ,medida,hm  ,medida,dam ,medida,dm))
-
-
-
-# print('A medida de {:.1f}m corresponde a {:.0f}cm e {:.0f}mm'.format(medida, cm,mm))
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
