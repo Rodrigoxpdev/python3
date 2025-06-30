@@ -1,10 +1,10 @@
 #POR PADRAO JA É COMO STRING TYPE STR
 # n = input('Digite um valor ')
-
 # n = input('Digite um valor ')
 # print(n.isalpha())
 
-# DESAFIO DA AULA
+
+# ------DESAFIO DA AULA------
 # PERGUNTANDO QUAL É O NUMERO DESEJADO PARA SOMAR INIT PARA CONVERTER PARA NUMERO 
 n1 = int(input('Digite um valor: '))
 n2 = int(input('Digite outro valor: '))
