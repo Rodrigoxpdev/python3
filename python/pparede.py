@@ -42,5 +42,3 @@ print('Sua parede tem a dimensao de {}x{} e sua area é de {}m2. \nPara pintar e
 
 
 
-
-
