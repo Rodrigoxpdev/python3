@@ -11,7 +11,7 @@ dm = medida * 10 #DECIMETROS
 
 # MEDIDA DE 1 METRO
 print(
-  'A medida de {:.0f}m corresponde a {:.0f}cm CENTIMETROS'  
+'A medida de {:.0f}m corresponde a {:.0f}cm CENTIMETROS'  
 '\nA medida de {:.0f}m corresponde a {:.0f}mm MILIMETROS' 
 '\nA medida de {:.0f}km corresponde a {:.0f}m QUILIMETROS' 
 '\nA medida de {:.0f}hm corresponde a {:.0f}m HEQUITOMETROS' 
